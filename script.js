@@ -54,16 +54,17 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "Are you comfortable with that plan?",
+    "Does your decision align to the latest girlfriend medical guidelines??",
+    "Should we escalate or get a second opinion from cardiology? Clearly your heart reading is not correct",
+    "Should we consider you the primary etiology of my acute heartbreak",
+    "Lovey please...",
+    "Talk me through your reasoning...",
+    "If you say no again, I will be committed...",
+    "And then my pyschiatrist will let you know that the patient reports acute onset heartbreak following exposure to you. Causality is suspected and Lila presents as a strong differential...",
+    "My images returned and it says that it is consistent with stress-induced cardiomyopathy",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Just kidding, say yes please, going to ask again! ❤️"
 ];
 
 let messageIndex = 0;
